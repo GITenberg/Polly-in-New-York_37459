@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1910
 description: Polly and Eleanor visit New York and have a number of very interesting
   experiences.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37459#Polly-in-New-York
 gutenberg_issued: '2011-09-17'
 gutenberg_type: Text
 identifiers:
